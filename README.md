@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi 👋Hello , 😄 I am murufeng ✨. ![](https://visitor-badge.glitch.me/badge?page_id=murufeng.homepage) 
+
+[![Murufeng github stats](https://github-readme-stats.vercel.app/api?username=murufeng&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murufeng&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **murufeng/murufeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
